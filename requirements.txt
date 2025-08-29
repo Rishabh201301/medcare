@@ -1,0 +1,14 @@
+torch>=2.2.0
+transformers>=4.41.0
+accelerate>=0.31.0
+peft>=0.11.1
+datasets>=2.20.0
+sentencepiece>=0.2.0
+tiktoken>=0.7.0
+protobuf<5
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+typing-extensions>=4.12.0
+
+
